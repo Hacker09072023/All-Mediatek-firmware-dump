@@ -12,4 +12,6 @@ MediaTek (MTK) qurilmalaridan proshivka (dump) olish va mtkclient orqali ishlash
 3. Buyruqlar satrida (CMD / PowerShell) loyiha papkasiga o'tib, zarur kutubxonalarni o'rnating:
    ```bash
    pip install -r mtkclient/requirements.txt
-   
+4. `start.bat` faylini ishga tushiring.
+5. Ish yakunlanishini kuting...
+  
